@@ -1,0 +1,6 @@
+libretro.o
+lua51
+luaretro.o
+retro.so
+snarf/
+usrc/
